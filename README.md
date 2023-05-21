@@ -1,3 +1,4 @@
 # React
 
-Many React Course Projects.
+React Course Projects.
+
